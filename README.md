@@ -1,1 +1,2 @@
-# Angular
+# Angular.js
+## By: Maya Dahlke
